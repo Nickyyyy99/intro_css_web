@@ -1,0 +1,25 @@
+article {
+   width: fit-content;
+   margin: 20px;
+   padding: 20px;
+   border-radius: 50px;
+   background-color: rgb(22, 22, 34);
+
+}
+img {
+   width: 50%;
+   border-radius: 10px;
+   margin: 5px;
+}
+.name {
+   border-radius: 20px;
+   color: blueviolet;
+   font-size: 40px;
+   margin: 8px;
+}
+#Doc {
+   border-radius: 20%;
+   color: green;
+   font-size: 30px;
+   margin: 8px;
+}
